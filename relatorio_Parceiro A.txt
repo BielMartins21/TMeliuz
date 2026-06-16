@@ -1,0 +1,5 @@
+Parceiro: Parceiro A
+Grupo vencedor: Grupo 1
+Lucro: R$ 404711.00
+Resultado: Grupo 1 apresentou o maior lucro
+Decisão: Escalar Grupo 1 para 100% do tráfego

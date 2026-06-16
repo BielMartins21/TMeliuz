@@ -1,4 +1,4 @@
-﻿Parceiro,Vencedor,Lucro
-Parceiro A,Grupo 1,404711.0
-Parceiro B,Grupo 1,286570.0
-Parceiro C,Grupo 1,34769.0
+﻿Nome do teste,Descrição,Resultado,Decisão
+Parceiro A,Teste A/B de cashback,Grupo 1 apresentou o maior lucro,Escalar Grupo 1 para 100% do tráfego
+Parceiro B,Teste A/B de cashback,Grupo 1 apresentou o maior lucro,Escalar Grupo 1 para 100% do tráfego
+Parceiro C,Teste A/B de cashback,Grupo 1 apresentou o maior lucro,Escalar Grupo 1 para 100% do tráfego
