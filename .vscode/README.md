@@ -1,5 +1,3 @@
-<div style="background-color: #000000; color: #ffffff; padding: 20px; border-radius: 10px;">
-
 # 🚀 Teste Técnico - Estágio Growth AI-Native | Méliuz
 
 ## 📌 Apresentação
@@ -109,5 +107,3 @@ O arquivo `historico_testes.csv` contém o resumo dos testes executados, incluin
 ## 👨‍💻 Autor
 
 **Gabriel Rodrigues Martins**
-
-</div>
