@@ -107,4 +107,4 @@ O arquivo `historico_testes.csv` contém o resumo dos testes executados, incluin
 
 ## 👨‍💻 Autor
 
-**Gabriel Rodrigues**
+**Gabriel Rodrigues Martins**
